@@ -18,10 +18,10 @@ title: Círculo Celeste
 email: hola@amostarot.com
 description: >- # this means to ignore newlines until "baseurl:"
   Soluciones espirituales para los problemas terrenales. Tarot evolutivo, rituales y afirmaciones.
-twitter_username: circuloceleste
+twitter_username: amostarot
 locale: es-ES
 # github_username:
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 logo: "/assets/images/tarotlogo.png"
 
