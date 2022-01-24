@@ -19,6 +19,7 @@ email: hola@amostarot.com
 description: >- # this means to ignore newlines until "baseurl:"
   Soluciones espirituales para los problemas terrenales. Tarot evolutivo, rituales y afirmaciones.
 twitter_username: circuloceleste
+locale: es-ES
 # github_username:
 minimal_mistakes_skin: default
 search: true
@@ -38,7 +39,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-locale: es-ES
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
