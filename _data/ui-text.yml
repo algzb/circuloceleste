@@ -14,8 +14,8 @@ es: &DEFAULT_ES
   search_label               : "Alternar búsqueda"
   toc_label                  : "En esta página"
   ext_link_label             : "Enlace directo"
-  less_than                  : "menos de"
-  minute_read                : "minuto(s) de lectura"
+  less_than                  : "Menos de"
+  minute_read                : "minutos de lectura"
   share_on_label             : "Compartir en"
   meta_label                 :
   tags_label                 : "Etiquetas:"
