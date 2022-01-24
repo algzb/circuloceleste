@@ -1,8 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "Sobre Amos Tarot"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Más de veinte años estudiando la lectura del Tarot terapéutico y otros temas esotéricos.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Amos tiene práctica privada en Estados Unidos, Francia y actualmente en Turquía.
+
+He realizado lecturas privadas miles de personas. Imparto cursos desde el 2014. Cienos de estudiantes se han beneficiado de los cursos de Tarot, las clases de crecimiento y desarrollo personal y los retiros espirituales.
+
+Ahora trabajo para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con cursos en línea. Desarrollo un espacio en donde podemos crecer juntos.
