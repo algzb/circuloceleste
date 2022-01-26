@@ -5,6 +5,8 @@ title: "Sobre Círculo Celeste"
 
 ## Círculo Celeste
 
+<img src="https://algzb.github.io/tarot/img/deck/tarot-world.jpg" width="250">{: .align-left}
+
 *Círculo Celeste* es una organización creada por [Amos Tarot](#sobre-amos-tarot). Nos dedicamos a proveer herramientas espirituales con un enfoque terapéutico.
 
 Nuestra misión es proveer servicios a un costo accesible. Fomentamos la enseñanza de Tarot terapéutico a través de la [Esculea de Tarot Círculo Celeste.](/escuela-de-tarot/)
