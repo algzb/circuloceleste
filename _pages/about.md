@@ -13,7 +13,7 @@ header:
   overlay_filter: rgba(19, 0, 103, 0.8)
   actions:
    - label: "Comunícate con nosotros"
-     url: "#ponte-en-contacto"
+     url: "/#ponte-en-contacto"
 ---
 ![Cartas de Tarot](https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
