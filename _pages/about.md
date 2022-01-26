@@ -5,13 +5,7 @@ title: "Sobre Círculo Celeste"
 toc: true
 toc_label: "Información"
 
-excerpt: "Proveemos herramientas espirituales para ayudar a comprender los asuntos terrenales. Cursos, talleres y seminarios."
 
-header:
-  overlay_color: "#3c1361"
-  actions:
-   - label: "Ponte en contacto"
-     url: "#ponte-en-contacto"
 ---
 ![Cartas de Tarot](https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
