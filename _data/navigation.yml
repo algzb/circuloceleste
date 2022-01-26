@@ -1,8 +1,6 @@
 main:
   - title: "Artículos"
     url: /posts/
-  - title: "Categorias"
-    url: /categories/
   - title: "Escuela de Tarot"
     url: /escuela-de-tarot/
   - title: "Sobre Nosotros"
