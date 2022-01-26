@@ -24,9 +24,9 @@ Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en 
 
 ***En este curso aprenderás a:***
 
-- Aprende a ***leer el Tarot***.
-- Uso del Tarot como ***herramienta terapéutica***.
-- Aprende el ***significado de todas las cartas*** de manera intuitiva..
+- Como enfocarte, conectare con la energía y desarrollar el instinto espiritual.
+- Descubre como usar el Tarot como ***herramienta terapéutica*** y autoayuda.
+- Aprende el ***significado de todas las cartas*** de manera intuitiva.
 - Tarot como negocio. Aprende a conseguir clientes y cobrar por el tiempo.
 
 ## Sobre el curso de Tarot de Círculo Celeste
@@ -52,22 +52,20 @@ Recomendamos que completes una unidad de estudios cada semana para completar el 
 
 <img src="https://images.unsplash.com/photo-1600430188203-bbb8dac79646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width="250">{: .align-right}
 
-<div class="notice--primary">
 El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
 
-El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
+>El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
 ***Oferta de pre matrícula. Obtén el curso completo por solo $49usd cuando completas tu matrícula antes del del 31 de enero.***
 
 [Completa tu matrícula](https://wa.me/17867057060){: .btn .btn--success .btn--large}
 
 [Solicita más información](https://wa.me/17867057060){: .btn .btn--info .btn--large}
-</div>
 
-## Para quén es este Curso
+## Para quién es este Curso
 - Este curso esta dirigido a principiantes con poca o ninguna experiencia en el Tarot.
 
--Todos pueden aprender a leer el Tarot.
+- Todos pueden aprender a leer el Tarot.
 
 ## Por qué aprender Tarot
 
@@ -78,6 +76,8 @@ Tarot es una guía que te ayuda a navegar por la vida.
 Es una gran herramienta terapéutica para ayudar a encontrar ***soluciones a los problemas***, nuevos caminos y fomenta la creatividad.
 
 ## Como funciona
+<img src="https://images.unsplash.com/photo-1519205196298-7fc29cb73b3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" width="250">{: .align-right}
+
 La ***Escuela de Tarot*** de Círculo Celeste funciona en línea.El participante tiene acceso a los videos y material educativo por la duración del curso.
 
 Accede a una nueva unidad cada semana. Cada unidad de estudio contiene videos, presentaciones y proyectos para entregar.
