@@ -4,6 +4,14 @@ title: "Sobre Círculo Celeste"
 
 toc: true
 toc_label: "Información"
+
+excerpt: "Proveemos herramientas espirituales para ayudar a comprender los asuntos terrenales. Cursos, talleres y seminarios."
+
+header:
+  overlay_filter: rgba(19, 0, 103, 1)
+  actions:
+   - label: "Ponte en contacto"
+     url: "#ponte-en-contacto"
 ---
 ![Cartas de Tarot](https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
@@ -19,8 +27,8 @@ Nuestra misión es proveer servicios a un costo accesible. Fomentamos la enseña
 
 Creemos que el Tarot jutnto con otras herramientas espirituales nos permiten entender mejor el mundo que nos rodea. Tarot nos da una visión nueva del mundo, nos permite identificar soluciones a los problemas. Fomenta nuestra creatividad y nos ayuda a diario.
 
-*!A tiempo para registrarte!* La próxima sesión comenzará en Febrero 2022. Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)
-{: .notice--info}.
+*!A tiempo para registrarte! La próxima sesión comenzará en Febrero 2022. Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)*
+
 
 
 ## Sobre Amos Tarot
