@@ -27,9 +27,11 @@ Nuestra misión es proveer servicios a un costo accesible. Fomentamos la enseña
 
 Creemos que el Tarot jutnto con otras herramientas espirituales nos permiten entender mejor el mundo que nos rodea. Tarot nos da una visión nueva del mundo, nos permite identificar soluciones a los problemas. Fomenta nuestra creatividad y nos ayuda a diario.
 
-*!A tiempo para registrarte! La próxima sesión comenzará en Febrero 2022. Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)*
+[*!A tiempo para registrarte!* La próxima sesión comenzará en Febrero 2022. Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)]{: .notice--info} class.}
 
+## Consultas privadas
 
+(Ponte en contacto)[#ponte-en-contacto] para agendar tu cosnulta privada.
 
 ## Sobre Amos Tarot
 
@@ -43,4 +45,6 @@ Ahora trabajo para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 ## Ponte en contacto
 
-Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en [Instagram](https://instagram.com/amos.tarot), [Twitter](https://twitter.com/amostarot)y [Facebook](https://facebook.com/amostarot).
+Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en [Instagram](https://instagram.com/amos.tarot), [Twitter](https://twitter.com/amostarot)y [Facebook](https://facebook.com/amostarot). También puedes escribirnos en WhatsApp al *1 (786) 705-7060*.
+
+[Escíbenos en WhatsApp](https://wa.me/17867057060){: .btn .btn--success .btn--large}
