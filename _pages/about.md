@@ -1,7 +1,22 @@
 ---
 permalink: /about/
-title: "Sobre Amos Tarot"
+title: "Sobre Círculo Celeste"
 ---
+
+## Círculo Celeste
+
+*Círculo Celeste* es una organización creada por [Amos Tarot](#sobre-amos-tarot). Nos dedicamos a proveer herramientas espirituales con un enfoque terapéutico.
+
+Nuestra misión es proveer servicios a un costo accesible. Fomentamos la enseñanza de Tarot terapéutico a través de la [Esculea de Tarot Círculo Celeste.](/escuela-de-tarot/)
+
+## Escuela de Tarot
+
+Creemos que el Tarot jutnto con otras herramientas espirituales nos permiten entender mejor el mundo que nos rodea. Tarot nos da una visión nueva del mundo, nos permite identificar soluciones a los problemas. Fomenta nuestra creatividad y nos ayuda a diario.
+
+Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)
+
+
+## Sobre Amos Tarot
 
 Más de veinte años estudiando la lectura del Tarot terapéutico y otros temas esotéricos.
 
@@ -10,3 +25,7 @@ Amos tiene práctica privada en Estados Unidos, Francia y actualmente en Turquí
 He realizado lecturas privadas miles de personas. Imparto cursos desde el 2014. Cienos de estudiantes se han beneficiado de los cursos de Tarot, las clases de crecimiento y desarrollo personal y los retiros espirituales.
 
 Ahora trabajo para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con cursos en línea. Desarrollo un espacio en donde podemos crecer juntos.
+
+## Ponte en contacto
+
+Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en [Instagram](https://instagram.com/amos.tarot), [Twitter](https://twitter.com/amostarot)y [Facebook](https://facebook.com/amostarot).
