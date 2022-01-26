@@ -16,7 +16,7 @@ header:
 ---
 ## Escuela de Tarot Círculo Celeste
 
-<img src="https://algzb.github.io/tarot/img/deck/tarot-world.jpg" width="250">{: .align-left}
+<img src="https://algzb.github.io/tarot/img/deck/tarot-world.jpg" width="250">{: .align-right}
 
 ¿Tienes un don que quereres desarrollar? Descubre el mundo del Tarot. En el ***Curso de Tarot de Círculo Celeste*** aprenderás el sinificado de cada una de las cartas del Tarot, las tiradas más utilizadas y herramientas para usar el Tarot terapéutico.
 
@@ -50,8 +50,9 @@ Recomendamos que completes una unidad de estudios cada semana para completar el 
 
 ## Precios y matrícula
 
-<img src="https://images.unsplash.com/photo-1600430188203-bbb8dac79646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width="250">{: .align-left}
+<img src="https://images.unsplash.com/photo-1600430188203-bbb8dac79646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width="250">{: .align-right}
 
+<div class="notice--primary">
 El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
 
 El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
@@ -61,7 +62,7 @@ El curso es de 12 semanas pero tienes un año para completar todo el trabajo y o
 [Completa tu matrícula](https://wa.me/17867057060){: .btn .btn--success .btn--large}
 
 [Solicita más información](https://wa.me/17867057060){: .btn .btn--info .btn--large}
-
+</div>
 
 ## Para quén es este Curso
 - Este curso esta dirigido a principiantes con poca o ninguna experiencia en el Tarot.
@@ -136,11 +137,9 @@ Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 ## Completa tu matrícula
 
-Obtén acceso a este curso.
+Obtén un año de acceso a este curso.
 
-[Completa tu matrícula ahora ](https://wa.me/17867057060){: .btn .btn--success .btn--large}
-
-[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn .btn--info .btn--large}
+[Completa tu matrícula ahora (WhatsApp)](https://wa.me/17867057060){: .btn .btn--success .btn--large}
 
 ## Preguntas sobre el curso
 Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en Instagram, Twittery Facebook. También puedes escribirnos en WhatsApp al 1 (786) 705-7060.
