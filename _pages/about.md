@@ -5,7 +5,15 @@ title: "Sobre Círculo Celeste"
 toc: true
 toc_label: "Información"
 
+excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
 
+
+header:
+  overlay_image: https://images.unsplash.com/photo-1470653503930-01819ee7ec83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  overlay_filter: rgba(19, 0, 103, 0.8)
+  actions:
+   - label: "Comunícate con nosotros"
+     url: "#ponte-en-contacto"
 ---
 ![Cartas de Tarot](https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
