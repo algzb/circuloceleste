@@ -21,7 +21,7 @@ Nuestra misión es proveer servicios a un costo accesible. Fomentamos la enseña
 
 Creemos que el Tarot junto con otras herramientas espirituales nos permiten entender mejor el mundo que nos rodea. Tarot nos da una visión nueva del mundo, nos permite identificar soluciones a los problemas. Fomenta nuestra creatividad y nos ayuda a diario.
 
-[*!A tiempo para registrarte!* La próxima sesión comenzará en Febrero 2022. Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)]{: .notice--info} class.}
+*!A tiempo para registrarte!* La próxima sesión comenzará en Febrero 2022. Encuentra más información en la [Escuela de Tarot Círculo Celeste](/esuela-de-tarot)
 
 ## Consultas privadas
 
