@@ -20,12 +20,16 @@ header:
 
 ¿Tienes un don que quereres desarrollar? Descubre el mundo del Tarot. En el ***Curso de Tarot de Círculo Celeste*** aprenderás el sinificado de cada una de las cartas del Tarot, las tiradas más utilizadas y herramientas para usar el Tarot terapéutico.
 
+Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en el mundo del Tarot, especialmente aquellos que tienen zero o ninguna experiencia. Todos pueden aprender a leer el Tarot.
+
+***En este curso aprenderás a:***
+
 - Aprende a ***leer el Tarot***.
 - Uso del Tarot como ***herramienta terapéutica***.
 - Aprende el ***significado de todas las cartas*** de manera intuitiva..
 - Tarot como negocio. Aprende a conseguir clientes y cobrar por el tiempo.
 
-## Sobre el curso
+## Sobre el curso de Tarot de Círculo Celeste
 Este curso es a tu ritmo. Accede una vez por semana a la plataforma de Círculo Celeste.
 
 - Duración 10 semanas.
@@ -37,7 +41,7 @@ Este curso es a tu ritmo. Accede una vez por semana a la plataforma de Círculo 
 - Completa tu periodo de práctica supervisada.
 - Certificado de completado.
 
-Recomendamos que completes una unidad de estudios cada semana para completar el curso en 10 semanas.{: .notice}
+Recomendamos que completes una unidad de estudios cada semana para completar el curso en 10 semanas.
 
 >¿No puedes conectarte todas las semanas? No te preocupes. Tienes un año para terminar el curso.
 
@@ -50,10 +54,7 @@ Recomendamos que completes una unidad de estudios cada semana para completar el 
 
 El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
 
->!Si completas tu matrícula antes del 31 de diciembre obtienes el curso por solo $49usd!
-
-- Incluye acceso ilimitado.
-- Incluye baraja de Tarot (por tiempo limitado).
+El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
 ***Oferta de pre matrícula. Obtén el curso completo por solo $49usd cuando completas tu matrícula antes del del 31 de enero.***
 
@@ -64,6 +65,7 @@ El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta ab
 
 ## Para quén es este Curso
 - Este curso esta dirigido a principiantes con poca o ninguna experiencia en el Tarot.
+
 -Todos pueden aprender a leer el Tarot.
 
 ## Por qué aprender Tarot
@@ -124,11 +126,11 @@ Sesiones de práctica supervisada. Coordina con el instructor.
 
 Más de veinte años estudiando la lectura del Tarot terapéutico y otros temas esotéricos.
 
-Amos es terapista y practica la cartomancia. Ofrece sus servicios como instructor profesional de Tarot, coaching y diseño de rituales.
+Amos es ***terapista profesional y practica la cartomancia.*** Ofrece sus servicios como instructor profesional de Tarot, coaching y diseña rituales, retiros espirituales y cursos.
 
 Tiene práctica privada en Estados Unidos, Francia y actualmente un consultorio profesional en Istanbul, Turquía.
-S
-Ha realizado lecturas privadas miles de personas. Imparte cursos desde el 2014. Cientos de estudiantes se han beneficiado de sus cursos de Tarot, las clases de crecimiento y desarrollo personal y los retiros espirituales.
+
+Ha realizado lecturas privadas miles de personas. Imparte cursos desde el 2014. Cientos de estudiantes se han beneficiado de sus cursos de Tarot, las clases de crecimiento y las clases de desarrollo personal.
 
 Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con cursos en línea.
 
@@ -139,3 +141,6 @@ Obtén acceso a este curso.
 [Completa tu matrícula ahora ](https://wa.me/17867057060){: .btn .btn--success .btn--large}
 
 [Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn .btn--info .btn--large}
+
+## Preguntas sobre el curso
+Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en Instagram, Twittery Facebook. También puedes escribirnos en WhatsApp al 1 (786) 705-7060.
