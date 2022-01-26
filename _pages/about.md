@@ -7,17 +7,14 @@ toc_label: "Información"
 
 excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
 
-
 header:
-  overlay_image: https://images.unsplash.com/photo-1470653503930-01819ee7ec83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  overlay_filter: rgba(19, 0, 103, 0.8)
+  overlay_image: https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  overlay_filter: rgba(19, 0, 103, 0.7)
   actions:
    - label: "Comunícate con nosotros"
      url: "/#ponte-en-contacto"
 ---
-![Cartas de Tarot](https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
-
-## Círculo Celeste
+## Sobre Círculo Celeste
 
 *Círculo Celeste* es una organización creada por [Amos Tarot](#sobre-amos-tarot). Nos dedicamos a proveer herramientas espirituales con un enfoque terapéutico.
 
@@ -49,4 +46,4 @@ Ahora trabajo para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en [Instagram](https://instagram.com/amos.tarot), [Twitter](https://twitter.com/amostarot)y [Facebook](https://facebook.com/amostarot). También puedes escribirnos en WhatsApp al *1 (786) 705-7060*.
 
-[Escíbenos en WhatsApp](https://wa.me/17867057060){: .btn .btn--success .btn--large}
+[Escríbenos en WhatsApp](https://wa.me/17867057060){: .btn .btn--success .btn--large}
