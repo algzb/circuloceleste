@@ -5,7 +5,7 @@ title: "Escuela de Tarot Círculo Celeste"
 toc: true
 toc_label: "Esuela de Tarot"
 
-excerpt: "Aprende todo sobre el Tarot. El signifiado de las cartas, las tiradas más utilizadas. Todos pueden aprender. No necesitas experiencia. "
+excerpt: "Desarrolla el don de leer cartas. Aprende todo sobre el Tarot. Descubre el significado de las cartas, las tiradas más utilizadas y cómo usar esta preciosa herramienta. Todos pueden aprender. No necesitas experiencia. "
 
 header:
   overlay_image: https://images.unsplash.com/photo-1600430073932-e915854d9d4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
@@ -18,7 +18,7 @@ header:
 
 <img src="https://algzb.github.io/tarot/img/deck/tarot-world.jpg" width="250">{: .align-right}
 
-¿Tienes un don que quereres desarrollar? Descubre el mundo del Tarot. En el ***Curso de Tarot de Círculo Celeste*** aprenderás el sinificado de cada una de las cartas del Tarot, las tiradas más utilizadas y herramientas para usar el Tarot terapéutico.
+ Descubre el mundo del Tarot. En el ***Curso de Tarot de Círculo Celeste*** aprenderás el sinificado de cada una de las cartas del Tarot, las tiradas más utilizadas y herramientas para usar el Tarot terapéutico.
 
 Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en el mundo del Tarot, especialmente aquellos que tienen zero o ninguna experiencia. Todos pueden aprender a leer el Tarot.
 
@@ -32,21 +32,23 @@ Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en 
 ## Sobre el curso de Tarot de Círculo Celeste
 Este curso es a tu ritmo. Accede una vez por semana a la plataforma de Círculo Celeste.
 
-- Duración 10 semanas.
-- En línea / A tu ritmo.
+- Duración 12 semanas.
+- Curso en línea / A tu ritmo.
+- Historia del Tarot.
 - Aprende el significado de todas las cartas
 - Tiradas más famosas de Tarot
 - Pruebas cortas y ejercicios de práctica.
+- Práctica supervisada.
 - Profesor disponible para preguntas.
 - Completa tu periodo de práctica supervisada.
 - Certificado de completado.
 
-Recomendamos que completes una unidad de estudios cada semana para completar el curso en 10 semanas.
+Recomendamos que completes una unidad de estudios cada semana para completar el curso en 12 semanas.
 
 >¿No puedes conectarte todas las semanas? No te preocupes. Tienes un año para terminar el curso.
 
 - Disponibilidad de al menos 2 horas semanales.
-- Necesitas una baraja de cartas (Recomendamos Rider–Waite)
+- Necesitas una baraja de cartas (Recomendamos Rider–Waite o Marseille)
 
 ## Precios y matrícula
 
@@ -56,31 +58,31 @@ El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta ab
 
 >El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
-***Oferta de pre matrícula. Obtén el curso completo por solo $49usd cuando completas tu matrícula antes del del 31 de enero.***
+***Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula antes del del 31 de enero de 2022.***
 
-[Completa tu matrícula](https://wa.me/17867057060){: .btn .btn--success .btn--large}
+[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}
 
-[Solicita más información](https://wa.me/17867057060){: .btn .btn--info .btn--large}
+[Solicita más información](https://wa.me/17867057060){: .btn  .btn--large}
 
-## Para quién es este Curso
+## Para quién es este curso
 - Este curso esta dirigido a principiantes con poca o ninguna experiencia en el Tarot.
 
 - Todos pueden aprender a leer el Tarot.
 
 ## Por qué aprender Tarot
 
-El Tarot es una ventana espiritual que te permite ver el mundo y aprender de el. Usamos Tarot como ***herramienta para reflexionar*** sobre los asuntos que nos preocupan, las emociones y los pensamientos.
+El Tarot es una ventana espiritual que te permite ver el mundo desde otra perspectiva. Usamos Tarot como ***herramienta para reflexionar*** sobre los asuntos que nos preocupan, las emociones y los pensamientos.
 
-Tarot es una guía que te ayuda a navegar por la vida.
+Tarot es una guía que te ayuda a navegar por la vida. Una tirada de cartas te permite reflexionar sobre los asuntos espirituales y ayuda a dar sentido a las posibilidades con las que te encuentras a diario.
 
 Es una gran herramienta terapéutica para ayudar a encontrar ***soluciones a los problemas***, nuevos caminos y fomenta la creatividad.
 
-## Como funciona
+## Como funciona el curso de Tarot
 <img src="https://images.unsplash.com/photo-1519205196298-7fc29cb73b3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" width="250">{: .align-right}
 
 La ***Escuela de Tarot*** de Círculo Celeste funciona en línea.El participante tiene acceso a los videos y material educativo por la duración del curso.
 
-Accede a una nueva unidad cada semana. Cada unidad de estudio contiene videos, presentaciones y proyectos para entregar.
+Los estudiantes tienen acceso una unidad semanal. Cada unidad de estudio contiene videos, presentaciones y proyectos para entregar.
 
 Mira todo el material, participa en la reunión de coaching, haz tu sesiones de práctica y obtén tu ***certificado de completado***.
 
@@ -91,7 +93,7 @@ A continuación encontraras el programa de clases.
 Aprende sobre la historia del Tarot y las barajas más utilizadas. Tarot en psicología, arquetipos y espiritualidad.
 
 ### Semana 2 / Arcanos Mayores Parte 1
-Un vistazo incial al la baraja. Aprende el significado de las cartas que componen los Arcanos Mayores.
+Un vistazo inicial al la baraja. Aprende el significado de las cartas que componen los Arcanos Mayores.
 
 ### Semana 3 / Arcanos Mayores Parte 2
 Aprende el significado de las cartas que componen los Arcanos Mayores. Práctica de lectura de una carta.
@@ -125,6 +127,8 @@ Sesiones de práctica supervisada. Coordina con el instructor.
 
 ## Sobre el instructor
 
+<img src="https://circuloceleste.tk/assets/images/avatar.jpeg" width="250">{: .align-right}
+
 Más de veinte años estudiando la lectura del Tarot terapéutico y otros temas esotéricos.
 
 Amos es ***terapista profesional y practica la cartomancia.*** Ofrece sus servicios como instructor profesional de Tarot, coaching y diseña rituales, retiros espirituales y cursos.
@@ -139,7 +143,9 @@ Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 Obtén un año de acceso a este curso.
 
-[Completa tu matrícula ahora (WhatsApp)](https://wa.me/17867057060){: .btn .btn--success .btn--large}
+[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}
+
+[Solicita más información](https://wa.me/17867057060){: .btn  .btn--large}
 
 ## Preguntas sobre el curso
-Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a traves de nuestras cuentas de redes sociales en Instagram, Twittery Facebook. También puedes escribirnos en WhatsApp al 1 (786) 705-7060.
+Puedes ponerte en contacto enviando un correo a ***circuloceleste@outlook.com*** o a través de nuestras cuentas de redes sociales en Instagram, Twittery Facebook. También puedes escribirnos en WhatsApp al 1 (786) 705-7060.
