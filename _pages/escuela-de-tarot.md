@@ -94,7 +94,7 @@ Los estudiantes tienen acceso una unidad semanal. Cada unidad de estudio contien
 Mira todo el material, participa en la reunión de coaching, haz tu sesiones de práctica y obtén tu ***certificado de completado***.
 
 ## Programa de clases
-<img src="https://images.unsplash.com/photo-1637757949726-0a4038f2bd6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="250">{: .align-right}
+<img src="https://images.unsplash.com/photo-1637757949726-0a4038f2bd6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
 
 Este curso en línea te permitirá adquirir todos los conocimientos que necesitas para ***comenzar a practicar la cartomancia*** para convertirte en tarotista. A continuación encontraras el programa de clases.
 
@@ -223,9 +223,9 @@ Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula antes del del 31 de enero de 2022.
 
-[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}
+[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
 
-[Solicita más información](https://wa.me/17867057060){: .btn  .btn--large}
+[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn  .btn--large}{: .align-center}
 
 ![](https://www.leafrootfruit.com.au/wp-content/uploads/2018/08/secure-stripe-payment-logo-amex-master-visa.png)
 
