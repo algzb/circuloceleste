@@ -67,9 +67,11 @@ El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta ab
 
 ***Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula antes del del 31 de enero de 2022.***
 
-[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}
+[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
 
-[Solicita más información](https://wa.me/17867057060){: .btn  .btn--large}
+[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn  .btn--large}{: .align-center}
+
+![](https://www.leafrootfruit.com.au/wp-content/uploads/2018/08/secure-stripe-payment-logo-amex-master-visa.png)
 
 ## Para quién es este curso
 - Este curso esta dirigido a principiantes con poca o ninguna experiencia en el Tarot.
