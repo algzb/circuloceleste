@@ -65,7 +65,7 @@ El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta ab
 
 >El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
-***Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula antes del del 31 de enero de 2022.***
+***Oferta de pre-matrícula. Obtén el curso completo por solo $97USD cuando completas tu matrícula antes del del 7 de febrero de 2022.***
 
 [Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
 
@@ -223,7 +223,7 @@ Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 ## Completa tu matrícula
 
-Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula antes del del 31 de enero de 2022.
+Oferta de pre-matrícula. Obtén el curso completo por solo $97USD Completa tu matrícula hoy.
 
 [Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
 
