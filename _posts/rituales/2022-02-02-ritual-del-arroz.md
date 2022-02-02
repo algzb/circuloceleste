@@ -1,7 +1,7 @@
 ---
 title: "Ritual del arroz chino para la abundancia económica"
-categories: rituales
-  -
+categories:
+  - 
 tags:
   - arroz
   - abundancia
