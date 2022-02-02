@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /sobre-nosotros/
 title: "Sobre Círculo Celeste"
 
 toc: true

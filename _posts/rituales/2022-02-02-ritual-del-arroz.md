@@ -2,7 +2,7 @@
 title: "Ritual del arroz chino para la abundancia económica"
 layout: single
 categories:
-  -rituales
+  - rituales
 tags:
   - arroz
   - abundancia
@@ -16,7 +16,7 @@ Este es un ritual fácil pero muy poderoso que abre las puertas a la abundancia 
 
 Me gusta este ritual porque aunque simple, es muy poderoso. Sobre todo la idea de compartirlo con toda la familia para que todos se beneficien como unidad.
 
-##Duración
+## Duración
 
 Este ritual dura diez díás.
 
