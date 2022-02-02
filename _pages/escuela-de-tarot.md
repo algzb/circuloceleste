@@ -2,7 +2,6 @@
 permalink: /escuela-de-tarot/
 title: "Curso de Tarot para principiantes por Círculo Celeste"
 
-
 toc: true
 toc_label: "Esuela de Tarot"
 
