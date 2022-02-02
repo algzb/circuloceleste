@@ -1,6 +1,7 @@
 ---
 permalink: /escuela-de-tarot/
-title: "Escuela de Tarot Círculo Celeste"
+title: "Curso de Tarot para principiantes por Círculo Celeste"
+og_image: https://images.unsplash.com/photo-1600430073932-e915854d9d4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 
 toc: true
 toc_label: "Esuela de Tarot"
@@ -12,8 +13,10 @@ header:
   overlay_filter: rgba(19, 0, 103, 0.8)
   actions:
    - label: "Solicita información"
-     url: "https://github.com"
+     url: "https://circuloceleste.tk/escuela-de-tarot/#preguntas-sobre-el-curso"
 ---
+
+
 ## Escuela de Tarot Círculo Celeste
 
 <img src="https://algzb.github.io/tarot/img/deck/tarot-world.jpg" width="250">{: .align-right}
