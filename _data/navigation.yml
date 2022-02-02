@@ -2,6 +2,9 @@ main:
 
   - title: "Inicio"
     url: /
+- title: "Artículos"
+  url: /blog/
+
   - title: "Escuela de Tarot"
     url: /escuela-de-tarot/
   - title: "Sobre Nosotros"
