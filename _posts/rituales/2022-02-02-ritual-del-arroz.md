@@ -1,7 +1,6 @@
 ---
 title: "Ritual del arroz chino para la abundancia económica"
 layout: single
-date: 2022-01-02
 categories:
   - Rituales
 tags:
