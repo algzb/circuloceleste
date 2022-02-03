@@ -9,7 +9,7 @@ excerpt: "Desarrolla el don de leer cartas. Aprende todo sobre el Tarot. Descubr
 
 header:
   overlay_image: https://images.unsplash.com/photo-1600430073932-e915854d9d4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  overlay_filter: rgba(19, 0, 103, 0.8)
+  overlay_filter: rgba(149, 125, 173, 0.9)
   actions:
    - label: "Solicita información"
      url: "https://circuloceleste.tk/escuela-de-tarot/#preguntas-sobre-el-curso"
