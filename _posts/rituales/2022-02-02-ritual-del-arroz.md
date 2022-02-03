@@ -2,13 +2,10 @@
 title: "Ritual del arroz chino para la abundancia económica"
 layout: single
 categories:
-  - Rituales
+  - "Rituales"
 tags:
   - arroz
   - abundancia
-
-  header:
-    og_image: https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 
 ![](https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
