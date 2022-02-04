@@ -1,5 +1,5 @@
 ---
-permalink: /lecturas-y-rituales/
+permalink: /servicios/
 title: "Precios de Lecturas de Tarot Privadas y Planificación de Rituales"
 
 

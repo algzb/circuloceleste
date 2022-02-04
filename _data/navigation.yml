@@ -6,5 +6,9 @@ main:
     url: /categories/
   - title: "Escuela de Tarot"
     url: /escuela-de-tarot/
+  - title: "Servicios"
+      url: /serviios/  
+  - title: "Recibe el Bloletín"
+    url: /sobre-nosotros/
   - title: "Sobre Nosotros"
     url: /sobre-nosotros/
