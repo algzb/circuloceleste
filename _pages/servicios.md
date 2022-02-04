@@ -12,25 +12,20 @@ header:
    - label: "Comunícate con nosotros"
      url: "/#ponte-en-contacto"
 ---
-## Sobre Círculo Celeste
-
-*Círculo Celeste* es una organización creada por [Amos Tarot](#sobre-amos-tarot). Nos dedicamos a proveer herramientas espirituales con un enfoque terapéutico.
 
 
-## Lecturas Gratis (Una carta / Respuesta corta)
+## Lectura de Tarot General
 
-Todos pueden beneficiarse de una lectura de Tarot. Sígue a Amos en [Instagram](https://instagram.com/amostarot). Allí encontrarás oportunidaes para relizar tus preguntas. Ofrecemos respuestas cortas que no sustituyen una lectura completa pero pueden arrojarte un poco de luz. No hay respuesta garantizada.
+Una lectura general. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO.
 
-## Consultas privadas con Amos
+- Lectura General: $49USD
 
-Una lectura general. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO. La lectura general tiene conlleva una aportación de $20USD.
-
-[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn  .btn--large}{: .align-center}
+[Solicita una lectura general](https://wa.me/17867057060){: .btn .btn--success .btn--large}{: .align-center}
 
 
 ## Club Círculo Círculo Celeste
 
-Únete al Club que te brinda herramientas espirituales para ayudarte organizar tus ideas, decisiones y descubrir opciones. Lecturas semanales y consejos. Te ayudo a crear rituales mensuales diseñados para mejorar los procesos de vida para alcanzar tus metas. Aportación mensual de solo $5USD.
+Únete al Club que te brinda herramientas espirituales para ayudarte organizar tus ideas, decisiones y descubrir opciones. Lecturas semanales y consejos. Te ayudo a crear rituales mensuales diseñados para mejorar los procesos de vida para alcanzar tus metas.
 
 - Una lectura completa de bienvenida
 - Un Ritual Personalizado Mensual
@@ -40,9 +35,13 @@ Una lectura general. Puedes hacer varias preguntas. Aceptamos pagos internaciona
 - Comunicación Frecuente via WhatsApp
 - Descuentos, sorpresas y otros beneficios
 
+La aportación es de $5USD al mes. 
+
 [Únete al Club Círculo Celeste](https://www.buymeacoffee.com/amostarot){: .btn .btn--success .btn--large}{: .align-center}
 
-[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn  .btn--large}{: .align-center}
+## Lecturas Gratis (Una carta / Respuesta corta)
+
+Todos pueden beneficiarse de una lectura de Tarot. Sígue a Amos en [Instagram](https://instagram.com/amostarot). Allí encontrarás oportunidaes para relizar tus preguntas. Ofrecemos respuestas cortas que no sustituyen una lectura completa pero pueden arrojarte un poco de luz. No hay respuesta garantizada.
 
 ## Sobre Amos Tarot
 
@@ -55,6 +54,10 @@ He realizado lecturas privadas miles de personas. Imparto cursos desde el 2014. 
 Creo que el Tarot junto con otras herramientas espirituales nos permite entender mejor el mundo que nos rodea. Tarot nos da una visión nueva del mundo, nos permite identificar soluciones a los problemas. Fomenta nuestra creatividad y nos ayuda a diario.
 
 Ahora trabajo para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con cursos en línea. Desarrollo un espacio en donde podemos crecer juntos.
+
+## Sobre Círculo Celeste
+
+*Círculo Celeste* es una organización creada por [Amos Tarot](#sobre-amos-tarot). Nos dedicamos a proveer herramientas espirituales con un enfoque terapéutico.
 
 ## Ponte en contacto
 

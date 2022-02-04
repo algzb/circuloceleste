@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Artículos"
     url: /categories/
+  - title: "Servicios"
+    url: /servicios/
   - title: "Escuela de Tarot"
     url: /escuela-de-tarot/
   - title: "Sobre Nosotros"
