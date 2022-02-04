@@ -1,6 +1,6 @@
 ---
 permalink: /servicios/
-title: "Precios de Lecturas de Tarot Privadas y Planificación de Rituales"
+title: "Lecturas General de Tarot"
 
 
 excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
@@ -14,16 +14,16 @@ header:
 ---
 
 
-## Lectura de Tarot General
+## Opción 1- Lectura de Tarot General
 
-Una lectura general. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO.
+Una lectura general de tu situación actual, presente, pasado o futuro, amor, dinero y otros temas. Esta lectura es en línea, en vivo. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO. 
 
 - Lectura General: $49USD
 
 [Solicita una lectura general](https://wa.me/17867057060){: .btn .btn--success .btn--large}{: .align-center}
 
 
-## Club Círculo Círculo Celeste
+## Opción 2 (Recomendado)- Club Círculo Círculo Celeste
 
 Únete al Club que te brinda herramientas espirituales para ayudarte organizar tus ideas, decisiones y descubrir opciones. Lecturas semanales y consejos. Te ayudo a crear rituales mensuales diseñados para mejorar los procesos de vida para alcanzar tus metas.
 
@@ -35,11 +35,11 @@ Una lectura general. Puedes hacer varias preguntas. Aceptamos pagos internaciona
 - Comunicación Frecuente via WhatsApp
 - Descuentos, sorpresas y otros beneficios
 
-La aportación es de $5USD al mes. 
+La aportación es de $5USD al mes.
 
 [Únete al Club Círculo Celeste](https://www.buymeacoffee.com/amostarot){: .btn .btn--success .btn--large}{: .align-center}
 
-## Lecturas Gratis (Una carta / Respuesta corta)
+## Opción 3- Lecturas Gratis (Una carta / Respuesta corta)
 
 Todos pueden beneficiarse de una lectura de Tarot. Sígue a Amos en [Instagram](https://instagram.com/amostarot). Allí encontrarás oportunidaes para relizar tus preguntas. Ofrecemos respuestas cortas que no sustituyen una lectura completa pero pueden arrojarte un poco de luz. No hay respuesta garantizada.
 
