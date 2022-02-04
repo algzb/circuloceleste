@@ -10,11 +10,12 @@ excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales p
 
 ## Opción 1- Lectura de Tarot General
 
-Una lectura general de tu situación actual, presente, pasado o futuro, amor, dinero y otros temas. Esta lectura es en línea, en vivo. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO.
+Una lectura general de tu situación actual, presente, pasado o futuro, amor, dinero y otros temas. Esta lectura es en línea, en vivo. Puedes hacer varias preguntas.
 
-- Lectura General: $49USD
+- Lectura General: $49USD / 30 minutos
 
 [Solicita una lectura general](https://wa.me/17867057060){: .btn .btn--success .btn--large}{: .align-center}
+Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO.
 
 
 ## Opción 2 (Recomendado)- Club Círculo Círculo Celeste
@@ -29,13 +30,17 @@ Una lectura general de tu situación actual, presente, pasado o futuro, amor, di
 - Comunicación Frecuente via WhatsApp
 - Descuentos, sorpresas y otros beneficios
 
-La aportación es de $5USD al mes.
+**La aportación es de solo $5USD al mes.**
 
 [Únete al Club Círculo Celeste](https://www.buymeacoffee.com/amostarot){: .btn .btn--success .btn--large}{: .align-center}
 
 ## Opción 3- Lecturas Gratis (Una carta / Respuesta corta)
 
-Todos pueden beneficiarse de una lectura de Tarot. Sígue a Amos en [Instagram](https://instagram.com/amostarot). Allí encontrarás oportunidaes para relizar tus preguntas. Ofrecemos respuestas cortas que no sustituyen una lectura completa pero pueden arrojarte un poco de luz. No hay respuesta garantizada.
+Todos pueden beneficiarse de una lectura de Tarot. Sígue a Amos en [Instagram](https://instagram.com/amostarot). Allí encontrarás oportunidades para relizar tus preguntas.
+
+Ofrecemos respuestas cortas que no sustituyen una lectura completa pero pueden arrojarte un poco de luz. No hay respuesta garantizada.
+
+Puedes hacer una aportación única de 5USD y recibes respuestas a tus preguntas por un mes.
 
 ## Sobre Amos Tarot
 
