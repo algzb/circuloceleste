@@ -5,18 +5,12 @@ title: "Lecturas General de Tarot"
 
 excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
 
-header:
-  overlay_image: https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  overlay_filter: rgba(19, 0, 103, 0.7)
-  actions:
-   - label: "Comunícate con nosotros"
-     url: "/#ponte-en-contacto"
 ---
-
+![]( https://images.unsplash.com/photo-1600429991827-5224817554f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 ## Opción 1- Lectura de Tarot General
 
-Una lectura general de tu situación actual, presente, pasado o futuro, amor, dinero y otros temas. Esta lectura es en línea, en vivo. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO. 
+Una lectura general de tu situación actual, presente, pasado o futuro, amor, dinero y otros temas. Esta lectura es en línea, en vivo. Puedes hacer varias preguntas. Aceptamos pagos internacionales. Puedes pagar con tu tarjeta del banco, VISA, MASTERCARD, AMEX y MAESTRO.
 
 - Lectura General: $49USD
 
