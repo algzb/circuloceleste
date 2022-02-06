@@ -1,6 +1,6 @@
 ---
 permalink: /escuela-de-tarot/
-title: "Curso de Tarot para principiantes por Círculo Celeste"
+title: "Curso de Tarot terapéutico para principiantes"
 
 toc: true
 toc_label: "Esuela de Tarot"
@@ -9,7 +9,7 @@ excerpt: "Desarrolla el don de leer cartas. Aprende todo sobre el Tarot. Descubr
 
 header:
   overlay_image: https://images.unsplash.com/photo-1600430073932-e915854d9d4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  overlay_filter: rgba(149, 125, 173, 0.9)
+  overlay_filter: rgba(149, 125, 173, 0.8)
   actions:
    - label: "Solicita información"
      url: "https://circuloceleste.tk/escuela-de-tarot/#preguntas-sobre-el-curso"
