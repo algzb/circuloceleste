@@ -1,6 +1,6 @@
 ---
 permalink: /webinars/
-title: "Aprénde sobre Tarot con los webinars gratis"
+title: "Aprende sobre Tarot con los webinars gratis"
 
 excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
 
