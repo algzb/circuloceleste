@@ -5,16 +5,16 @@ title: "Aprénde sobre Tarot con los webinars gratis"
 excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
 
 header:
-  overlay_image: https://images.unsplash.com/photo-1544026230-488aeae72c0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80
+  overlay_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
   overlay_filter: rgba(19, 0, 103, 0.7)
   actions:
    - label: "Comunícate con nosotros"
      url: "/sobre-nosotros"
 
 ---
-## Póximo Webinar: sincronicidad: ¿Existen las casualidades?
+## Martes 8 de febrero de 2022: sincronicidad: ¿Existen las casualidades? /
 
-Un vistazo a la teoría de la sincronicidad y su relación con el Tarot.
+En este curso de una hora daremos un  vistazo rápido a la teoría de la sincronicidad y su relación con el Tarot. Preguntas abiertas. 
 
 - **Formato:** En línea / conversatorio
 - **¿Cuándo?** 8 de febrero de 2022
