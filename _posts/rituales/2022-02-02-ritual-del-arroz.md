@@ -7,8 +7,6 @@ tags:
   - arroz
   - abundancia
 
-excerpt: "Este es un ritual fácil pero muy poderoso que abre las puertas a la abundancia económica."
-
 header:
   og_image: https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1024&q=78
   caption: "Foto por : [**Pierre Bamin**](https://unsplash.com/photos/-LdilhDx3sk)"
