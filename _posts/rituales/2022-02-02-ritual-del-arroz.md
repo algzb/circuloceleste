@@ -3,10 +3,9 @@ title: Ritual del arroz chino para la abundancia económica
 layout: single
 categories: [Rituales]
 tags: [arroz, abundancia]
-header: '{
-   og_image: https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1024&q=78,
-   caption: Foto por : [**Pierre Bamin**](https://unsplash.com/photos/-LdilhDx3sk)
-}'
+header:
+  overlay_image: https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  overlay_filter: rgba(19, 0, 103, 0.7)
 ---
 
 Este es un ritual fácil pero muy poderoso que abre las puertas a la abundancia económica. Es un acto de afirmación que permite ponernos en sincronía con el universo para abrir las puertas de la libertad financiera.
