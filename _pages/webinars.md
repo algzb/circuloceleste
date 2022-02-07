@@ -1,17 +1,10 @@
 ---
 permalink: /webinars/
-title: "Aprende sobre Tarot con los webinars gratis"
-
-excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
-
-header:
-  overlay_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
-  overlay_filter: rgba(19, 0, 103, 0.7)
-  actions:
-   - label: "Comunícate con nosotros"
-     url: "/sobre-nosotros"
-
+title: 'Webinars gratis: Aprende sobre el mundo del Tarot'
+excerpt: Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios.
+header: '{ overlay_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80, overlay_filter: rgba(19, 0, 103, 0.7), actions: [{label: Comunícate con nosotros, url: /sobre-nosotros}] }'
 ---
+
 ## Sobre los webinars gratis de Círculo Celeste
 
 Círculo Celeste ofrece seminarios en línea gratuitos sobre temas de Tarot terapéutico. [Regístrate en nuestro boletín para recibir las invitaciones.](https://amostarot.us20.list-manage.com/subscribe?u=43b2189bc68fe8ba6aa012594&id=51cf80e639). A continuación encontrarás los próximos webinars en agenda.
