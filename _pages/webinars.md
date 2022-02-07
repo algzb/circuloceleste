@@ -18,10 +18,12 @@ En este curso de una hora daremos un  vistazo rápido a la teoría de la sincron
 
 - **Formato:** En línea / conversatorio
 - **¿Cuándo?** 8 de febrero de 2022
-- **Hora: 5:00PM** (Hora Nueva York) [Ver en el horario de tu país](https://www.timeanddate.com/worldclock/fixedtime.html?msg=%C2%BFExisten+las+casualidades%3F+Webinar+Gratis&iso=20220209T01&p1=107&ah=1)
+- **Hora: 5:00PM** (Hora Nueva York)
+- [Ver en el horario de tu país](https://www.timeanddate.com/worldclock/fixedtime.html?msg=%C2%BFExisten+las+casualidades%3F+Webinar+Gratis&iso=20220209T01&p1=107&ah=1)
 
 [Completa tu registro](https://forms.office.com/r/XjteYRTLa2){: .btn .btn--success .btn--large}{: .align-center}
-Recibirás el enlace de a acceso una hora antes del evento (ZOOM). Los participantes del curso en vivo tienen la oportunidad de hacer preguntas. ¿No puedes a la hora indicada? Todos recibirán la grabación.
+
+**Recibirás el enlace de a acceso una hora antes del evento. Los participantes del curso en vivo tienen la oportunidad de hacer preguntas. ¿No puedes a la hora indicada? Todos recibirán la grabación.**
 
 ## Sobre los webinars gratis de Círculo Celeste
 
