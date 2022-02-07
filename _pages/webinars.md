@@ -6,12 +6,9 @@ title: "Aprénde sobre Tarot con los webinars gratis"
 excerpt: "Circulo Celeste promueve la lectura de Tarot terapéutico y rituales para organizar y desarrollar tus ideas. Ofrecemos cursos, talleres y seminarios."
 
 header:
-  og_image: "https://images.unsplash.com/photo-1544026230-488aeae72c0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+  image: "https://images.unsplash.com/photo-1544026230-488aeae72c0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&q=80"
 
 ---
-![](https://images.unsplash.com/photo-1544026230-488aeae72c0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80)
-
-
 ## Póximo Webinar: sincronicidad: ¿Existen las casualidades?
 
 Un vistazo a la teoría de la sincronicidad y su relación con el Tarot.
