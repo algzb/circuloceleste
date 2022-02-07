@@ -5,7 +5,7 @@ title: "Curso de Tarot terapéutico para principiantes"
 toc: true
 toc_label: "Esuela de Tarot"
 
-excerpt: "Desarrolla el don de leer cartas. Aprende todo sobre el Tarot. Descubre el significado de las cartas, las tiradas más utilizadas y cómo usar esta preciosa herramienta. Todos pueden aprender. No necesitas experiencia. "
+excerpt: "Aprende todo sobre el Tarot. Descubre el significado de las cartas, las tiradas más utilizadas y cómo usar esta preciosa herramienta. Todos pueden aprender. No necesitas experiencia. "
 
 header:
   overlay_image: https://images.unsplash.com/photo-1600430073932-e915854d9d4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
@@ -107,7 +107,9 @@ Aprende sobre la historia del Tarot y las barajas más utilizadas. Tarot en psic
 
 - Origen e historia del Tarot
 - Comienzo de un diario espiritual
-- Ritual de energía para las cartas
+- Sincronización y espiritualidad
+- Tarot y psicología
+- Código de Ética
 - Ejercicios de práctica
 
 ### Semana 2 / Arcanos Mayores Parte 1
@@ -191,7 +193,6 @@ Aprende algunos de los métodos de lectura más avanzados. Lee el Tarot de forma
 ### Semana 10 / Ética, terapia, coaching
 Un vistazo al código de ética del Tarot y su uso terapéutico.
 
-- Repasando el código de Ética
 - Como trabajar con diferentes situaciones
 - Cómo ayudar a un cliente a formular preguntas
 
