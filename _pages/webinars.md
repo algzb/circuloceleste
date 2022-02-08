@@ -10,12 +10,12 @@ header:
 
 ## Sobre los webinars gratis de Círculo Celeste
 
-Círculo Celeste ofrece seminarios en línea gratuitos sobre temas de Tarot terapéutico. [Regístrate en nuestro boletín para recibir las invitaciones.](https://amostarot.us20.list-manage.com/subscribe?u=43b2189bc68fe8ba6aa012594&id=51cf80e639). A continuación encontrarás los próximos webinars en agenda.
+¡Tengamos una conversación! Círculo Celeste ofrece charlas y seminarios en línea. Usamos la plataforma Zoom. Es fácil participar. Escoge el tema que te interesa y completa.  tu registro. Recibirás las instrucciones de acceso una hora antes del evento
 
-**¿No puedes a la hora indicada?** Los participantes del curso en vivo tienen la oportunidad de hacer preguntas. Pero si no puedes asistir no te preocupes. Completa tu registro y recibirás la grabación.
-{: .notice--success}
+## Próximas reuniones en Agenda
+¡No te pierdas las reunioens! [Regístrate en nuestro boletín para recibir las invitaciones.](https://amostarot.us20.list-manage.com/subscribe?u=43b2189bc68fe8ba6aa012594&id=51cf80e639). A continuación encontrarás los próximos webinars en agenda.
 
-## Martes 8 de febrero de 2022: sincronicidad: ¿Existen las casualidades? /
+### Martes 8 de febrero de 2022: sincronicidad: ¿Existen las casualidades? /
 
 En este curso de una hora daremos un  vistazo rápido a la teoría de la sincronicidad y su relación con el Tarot. Preguntas abiertas.
 
