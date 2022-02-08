@@ -30,7 +30,7 @@ Recibirás el enlace de a acceso una hora antes del evento.
 
 ## Escuela de Tarot Círculo Celeste
 
-El próximo curso completo de Tarot comienza el 12 de febrero. Aprende todo saber el arte de la cartomancia, el significado de cada carta y los métodos de tiradas. A tu ritmo con instructores reales. [Encuentra más información.](/escuela-de-tarot) 
+El próximo curso completo de Tarot comienza el 12 de febrero. Aprende todo saber el arte de la cartomancia, el significado de cada carta y los diferentes métodos de lectura. Es un curso completo que incluye sesiones de práctica. Los profesores están siempre presentes para contestar tus dudas. [Encuentra más información.](/escuela-de-tarot) 
 
 ## Ponte en contacto
 
