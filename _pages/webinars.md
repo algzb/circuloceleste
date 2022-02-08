@@ -12,12 +12,10 @@ header:
 
 ¡Tengamos una conversación! Círculo Celeste ofrece charlas y seminarios en línea. Usamos la plataforma Zoom. Es fácil participar. Escoge el tema que te interesa y completa.  tu registro. Recibirás las instrucciones de acceso una hora antes del evento
 
-## Próximas reuniones en Agenda
-¡No te pierdas las reunioens! [Regístrate en nuestro boletín para recibir las invitaciones.](https://amostarot.us20.list-manage.com/subscribe?u=43b2189bc68fe8ba6aa012594&id=51cf80e639). A continuación encontrarás los próximos webinars en agenda.
+¡No te pierdas las reuniones! [Regístrate en nuestro boletín para recibir las invitaciones.](https://amostarot.us20.list-manage.com/subscribe?u=43b2189bc68fe8ba6aa012594&id=51cf80e639). A continuación encontrarás los próximos webinars en agenda.
 
-<div style="padding: 20px; backgroud-color: #ededed">
 
-### Martes 8 de febrero de 2022: sincronicidad: ¿Existen las casualidades? /
+## Martes 8 de febrero de 2022: sincronicidad: ¿Existen las casualidades? /
 
 En este curso de una hora daremos un  vistazo rápido a la teoría de la sincronicidad y su relación con el Tarot. Preguntas abiertas.
 
@@ -29,7 +27,6 @@ En este curso de una hora daremos un  vistazo rápido a la teoría de la sincron
 [Completa tu registro](https://forms.office.com/r/XjteYRTLa2){: .btn .btn--success .btn--large}{: .align-center}
 
 Recibirás el enlace de a acceso una hora antes del evento.
-</div>
 
 ## Ponte en contacto
 
