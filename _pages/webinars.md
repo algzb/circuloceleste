@@ -28,6 +28,10 @@ En este taller / conversación daremos un  vistazo rápido a la teoría de la si
 
 Recibirás el enlace de a acceso una hora antes del evento.
 
+## Escuela de Tarot Círculo Celeste
+
+El próximo curso completo de Tarot comienza el 12 de febrero. Aprende todo saber el arte de la cartomancia, el significado de cada carta y los métodos de tiradas. A tu ritmo con instructores reales. [Encuentra más información.](/escuela-de-tarot) 
+
 ## Ponte en contacto
 
 Puedes ponerte en contacto enviando un correo a circuloceleste@outlook.com o a través de nuestras cuentas de redes sociales en [Instagram](https://instagram.com/amos.tarot), [Twitter](https://twitter.com/amostarot)y [Facebook](https://facebook.com/amostarot). También puedes escribirnos en WhatsApp al *1 (786) 705-7060*.
