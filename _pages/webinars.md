@@ -14,7 +14,6 @@ header:
 
 ¡No te pierdas las reuniones! [Regístrate en nuestro boletín para recibir las invitaciones.](https://amostarot.us20.list-manage.com/subscribe?u=43b2189bc68fe8ba6aa012594&id=51cf80e639). A continuación encontrarás los próximos webinars en agenda.
 
-
 ## Martes 8 de febrero de 2022: sincronicidad: ¿Existen las casualidades? /
 
 En este taller / conversación daremos un  vistazo rápido a la teoría de la sincronicidad y su relación con el Tarot. Preguntas abiertas.
