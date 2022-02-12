@@ -20,9 +20,9 @@ header:
 
 <img src="https://algzb.github.io/tarot/img/deck/tarot-world.jpg" width="250">{: .align-right}
 
- Descubre el mundo del Tarot. En el ***Curso de Tarot de Círculo Celeste*** aprenderás el sinificado de cada una de las cartas del Tarot, las tiradas más utilizadas y herramientas para usar el Tarot terapéutico.
+ Descubre el mundo del Tarot. En el ***Curso de Tarot de Círculo Celeste*** aprenderás el significado de cada una de las cartas del Tarot, las tiradas más utilizadas y herramientas para usar el Tarot terapéutico.
 
-Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en el mundo del Tarot, especialmente aquellos que tienen zero o ninguna experiencia. Todos pueden aprender a leer el Tarot.
+Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en el mundo del Tarot, especialmente aquellos que tienen cero o ninguna experiencia. Todos pueden aprender a leer el Tarot.
 
 ***En este curso aprenderás a:***
 
@@ -63,11 +63,11 @@ Es un curso a tu ritmo pero los profesores están disponibles siempre para acomp
 
 <img src="https://images.unsplash.com/photo-1600430188203-bbb8dac79646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width="250">{: .align-right}
 
-El próximo curso comienza el ***12 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
+El próximo curso comienza el ***14 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
 
 >El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
-***Oferta de pre-matrícula. Obtén el curso completo por solo $97USD cuando completas tu matrícula antes de 5 de febrero de 2022.***
+***Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula hoy.***
 
 [Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
 
@@ -135,7 +135,7 @@ Aprende el significado de las cartas que componen los Arcanos Mayores. Práctica
 Un vistazo a las cartas que componen el palo de copas. Definiciones,símbolos, neurología y lectura. Sesión de práctica.
 
 - Todas las cartas del palo de copas
-- Numerología, simbolos
+- Numerología, símbolos
 - Ejercicios de práctica
 - Ejercicios de práctica
 - Ejercicios para entregar
@@ -146,7 +146,7 @@ Un vistazo a las cartas que componen el palo de copas. Definiciones,símbolos, n
 Un vistazo a las cartas que componen el palo de oros. Definiciones,símbolos, neurología y lectura. Sesión de práctica.
 
 - Todas las cartas del palo de oros
-- Numerología, simbolos
+- Numerología, símbolos
 - Ejercicios de práctica
 - Ejercicios de práctica
 - Ejercicios para entregar
@@ -156,7 +156,7 @@ Un vistazo a las cartas que componen el palo de oros. Definiciones,símbolos, ne
 Un vistazo a las cartas que componen el palo de bastos. Definiciones,símbolos, neurología y lectura. Sesión de práctica.
 
 - Todas las cartas del palo de bastos
-- Numerología, simbolos
+- Numerología, símbolos
 - Ejercicios de práctica
 - Ejercicios de práctica
 - Ejercicios para entregar
@@ -166,7 +166,7 @@ Un vistazo a las cartas que componen el palo de bastos. Definiciones,símbolos, 
 Un vistazo a las cartas que componen el palo de espadas. Definiciones,símbolos, neurología y lectura. Sesión de práctica.
 
 - Todas las cartas del palo de espadas
-- Numerología, simbolos
+- Numerología, símbolos
 - Ejercicios de práctica
 - Ejercicios de práctica
 - Ejercicios para entregar
