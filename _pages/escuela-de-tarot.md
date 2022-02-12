@@ -26,7 +26,7 @@ Hemos diseñado el curso de Círculo Celeste para servir a los principiantes en 
 
 ***En este curso aprenderás a:***
 
-- Como enfocarte, conectare con la energía y desarrollar el instinto espiritual.
+- Como enfocarte, conecta con la energía y desarrollar el instinto espiritual.
 - Descubre como usar el Tarot como ***herramienta terapéutica*** y autoayuda.
 - Aprende el ***significado de todas las cartas*** de manera intuitiva.
 - Tarot como negocio. Aprende a conseguir clientes y cobrar por el tiempo.
@@ -46,7 +46,7 @@ Recomendamos que completes una unidad de estudios cada semana para completar el 
 
 ## Qué vas a aprender
 
-Es un curso a tu ritmo pero los profesores están disponibles siempre para acompañarte en el camino. Este es un curso completo. Al final tendrás las destrezas que necesitas para practicar la cartomancia y la habilidad para realizar lecturas de Tarot profesionales.
+Es un curso a tu ritmo, pero los profesores están disponibles siempre para acompañarte en el camino. Este es un curso completo. Al final tendrás las destrezas que necesitas para practicar la cartomancia y la habilidad para realizar lecturas de Tarot profesionales.
 
 - Conecta con tu energía interna.
 - Historia del Tarot.
@@ -63,7 +63,7 @@ Es un curso a tu ritmo pero los profesores están disponibles siempre para acomp
 
 <img src="https://images.unsplash.com/photo-1600430188203-bbb8dac79646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width="250">{: .align-right}
 
-El próximo curso comienza el ***14 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
+El próximo curso comienza el ***15 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
 
 >El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
@@ -226,7 +226,7 @@ Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 ## Completa tu matrícula
 
-Oferta de pre-matrícula. Obtén el curso completo por solo $97USD Completa tu matrícula hoy.
+Oferta de pre-matrícula. Obtén el curso completo por solo $49USD Completa tu matrícula hoy.
 
 [Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
 
