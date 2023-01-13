@@ -63,15 +63,13 @@ Es un curso a tu ritmo, pero los profesores están disponibles siempre para acom
 
 <img src="https://images.unsplash.com/photo-1600430188203-bbb8dac79646?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width="250">{: .align-right}
 
-El próximo curso comienza el ***15 de febrero de 2022.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
+El próximo curso comienza el ***15 de febrero de 2023.*** La matrícula esta abierta. El precio de matrícula es de $197USD. ***Hay plan de pagos disponible.***
 
 >El curso es de 12 semanas pero tienes un año para completar todo el trabajo y obtener tu certificado.
 
 ***Oferta de pre-matrícula. Obtén el curso completo por solo $49USD cuando completas tu matrícula hoy.***
 
-[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
-
-[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn  .btn--large}{: .align-center}
+[Completa tu matrícula](https://www.buymeacoffee.com/amostarot/e/111708){: .btn .btn--success .btn--large}{: .align-center}
 
 ![](https://www.leafrootfruit.com.au/wp-content/uploads/2018/08/secure-stripe-payment-logo-amex-master-visa.png)
 
@@ -228,9 +226,7 @@ Ahora trabaja para llevar la Escuela de Tarot Círculo Celeste al siglo 21 con c
 
 Oferta de pre-matrícula. Obtén el curso completo por solo $49USD Completa tu matrícula hoy.
 
-[Completa tu matrícula](https://www.peachpay.me/amostarot/offers/445){: .btn .btn--success .btn--large}{: .align-center}
-
-[Solicita más información (WhatsApp)](https://wa.me/17867057060){: .btn  .btn--large}{: .align-center}
+[Completa tu matrícula](https://www.buymeacoffee.com/amostarot/e/111708){: .btn .btn--success .btn--large}{: .align-center}
 
 ![](https://www.leafrootfruit.com.au/wp-content/uploads/2018/08/secure-stripe-payment-logo-amex-master-visa.png)
 
